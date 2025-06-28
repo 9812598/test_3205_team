@@ -1,4 +1,4 @@
-﻿### Set your .env files like in front
+﻿### Set your .env files in frontend and backend folders like in .env.example files
 
 ### Compile and Hot-Reload for Development
 
